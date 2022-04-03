@@ -75,3 +75,12 @@ describe("Ignored file", () => {
     status: 0,
   });
 });
+
+describe("no error on unmatched pattern when file is a number", () => {
+  runPrettier("cli/ignore-unknown", [
+    "--no-error-on-unmatched-pattern",
+    "0xff",
+  ]).test({
+    status: 0,
+  });
+});

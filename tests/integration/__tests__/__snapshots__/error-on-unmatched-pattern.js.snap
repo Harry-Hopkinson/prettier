@@ -1,5 +1,9 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
+exports[`a number should be returned (stderr) 1`] = `""`;
+
+exports[`a number should be returned (write) 1`] = `Array []`;
+
 exports[`error on unmatched pattern (stderr) 1`] = `
 "[error] No files matching the pattern were found: \\"**/*.toml\\".
 "

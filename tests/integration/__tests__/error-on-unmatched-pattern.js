@@ -35,3 +35,13 @@ describe("error on unmatched pattern when 2nd glob has no match", () => {
     status: 2,
   });
 });
+
+describe("a number should be returned", () => {
+  runPrettier("cli/error-on-unmatched-pattern", [
+    "--no-error-on-unmatched-pattern",
+    "0xff",
+  ]).test({
+    status: 0,
+    stdout: "0xff\n",
+  });
+});

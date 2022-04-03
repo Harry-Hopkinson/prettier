@@ -67,3 +67,9 @@ Array [
   },
 ]
 `;
+
+exports[`no error on unmatched pattern when file is a number (stderr) 1`] = `""`;
+
+exports[`no error on unmatched pattern when file is a number (stdout) 1`] = `""`;
+
+exports[`no error on unmatched pattern when file is a number (write) 1`] = `Array []`;
