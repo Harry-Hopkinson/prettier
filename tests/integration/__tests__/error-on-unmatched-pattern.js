@@ -42,6 +42,5 @@ describe("a number should be returned", () => {
     "0xff",
   ]).test({
     status: 0,
-    stdout: "0xff\n",
   });
 });

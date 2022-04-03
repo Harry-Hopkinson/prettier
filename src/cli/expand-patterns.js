@@ -57,7 +57,7 @@ async function* expandPatternsInternal(context) {
   let supportedFilesGlob;
   const cwd = process.cwd();
 
-  /** @type {Array<{ type: 'string' | 'file' | 'dir' | 'glob'; glob: string; input: string; }>} */
+  /** @type {Array<{ type: 'file' | 'dir' | 'glob'; glob: string; input: string; }>} */
   const entries = [];
 
   for (const pattern of context.filePatterns) {
@@ -103,7 +103,7 @@ async function* expandPatternsInternal(context) {
     }
   }
 
-  for (let { type, glob, input } of entries) {
+  for (const { type, glob, input } of entries) {
     let result;
 
     try {
@@ -118,7 +118,7 @@ async function* expandPatternsInternal(context) {
     if (result.length === 0) {
       if (context.argv.errorOnUnmatchedPattern !== false) {
         yield {
-          error: `${errorMessages.emptyResults[type]}: "${input.toString()}".`,
+          error: `${errorMessages.emptyResults[type]}: "${input}".`,
         };
       }
     } else {
