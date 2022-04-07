@@ -473,7 +473,8 @@ window.Data[key]("foo")
     .catch(() => console.log("baz"));
 });
 
-window.Data[key]("foo")
+window.Data
+  [key]("foo")
   .then(() => a)
   .catch(() => b);
 
@@ -1077,10 +1078,12 @@ fetchUser(id) //
 // examples from https://github.com/prettier/prettier/issues/3107
 
 function HelloWorld() {
-  window.FooClient.setVars({
-    locale: getFooLocale({ page }),
-    authorizationToken: data.token,
-  }).initVerify("foo_container");
+  window.FooClient
+    .setVars({
+      locale: getFooLocale({ page }),
+      authorizationToken: data.token,
+    })
+    .initVerify("foo_container");
 
   fejax
     .ajax({
@@ -1117,10 +1120,12 @@ action$
       )
   );
 
-window.FooClient.setVars({
-  locale: getFooLocale({ page }),
-  authorizationToken: data.token,
-}).initVerify("foo_container");
+window.FooClient
+  .setVars({
+    locale: getFooLocale({ page }),
+    authorizationToken: data.token,
+  })
+  .initVerify("foo_container");
 
 it("gets triggered by mouseenter", () => {
   const wrapper = shallow(<CalendarDay />);

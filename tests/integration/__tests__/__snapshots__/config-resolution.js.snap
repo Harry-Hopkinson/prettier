@@ -1,22 +1,47 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`CLI overrides take precedence (stderr) 1`] = `""`;
+exports[`CLI overrides take precedence (stderr) 1`] = `
+"[error] editorconfig/file.js: TypeError: Cannot read properties of undefined (reading 'length')
+[error]     at getLast (<cwd>/src/utils/get-last.js:3:34)
+[error]     at shouldNotWrapMemberExpression (<cwd>/src/language-js/print/member-chain.js:302:22)
+[error]     at printMemberChain (<cwd>/src/language-js/print/member-chain.js:313:6)
+[error]     at printCallExpression (<cwd>/src/language-js/print/call-expression.js:84:12)
+[error]     at printPathNoParens (<cwd>/src/language-js/printer-estree.js:378:14)
+[error]     at Object.genericPrint [as print] (<cwd>/src/language-js/printer-estree.js:88:19)
+[error]     at callPluginPrintFunction (<cwd>/src/main/ast-to-doc.js:133:21)
+[error]     at mainPrintInternal (<cwd>/src/main/ast-to-doc.js:76:17)
+[error]     at <cwd>/src/main/ast-to-doc.js:63:28
+[error]     at AstPath.call (<cwd>/src/common/ast-path.js:66:20)
+[error] editorconfig/lib/indent_size=tab.js: TypeError: Cannot read properties of undefined (reading 'length')
+[error]     at getLast (<cwd>/src/utils/get-last.js:3:34)
+[error]     at shouldNotWrapMemberExpression (<cwd>/src/language-js/print/member-chain.js:302:22)
+[error]     at printMemberChain (<cwd>/src/language-js/print/member-chain.js:313:6)
+[error]     at printCallExpression (<cwd>/src/language-js/print/call-expression.js:84:12)
+[error]     at printPathNoParens (<cwd>/src/language-js/printer-estree.js:378:14)
+[error]     at Object.genericPrint [as print] (<cwd>/src/language-js/printer-estree.js:88:19)
+[error]     at callPluginPrintFunction (<cwd>/src/main/ast-to-doc.js:133:21)
+[error]     at mainPrintInternal (<cwd>/src/main/ast-to-doc.js:76:17)
+[error]     at <cwd>/src/main/ast-to-doc.js:63:28
+[error]     at AstPath.call (<cwd>/src/common/ast-path.js:66:20)
+[error] js/file.js: TypeError: Cannot read properties of undefined (reading 'length')
+[error]     at getLast (<cwd>/src/utils/get-last.js:3:34)
+[error]     at shouldNotWrapMemberExpression (<cwd>/src/language-js/print/member-chain.js:302:22)
+[error]     at printMemberChain (<cwd>/src/language-js/print/member-chain.js:313:6)
+[error]     at printCallExpression (<cwd>/src/language-js/print/call-expression.js:84:12)
+[error]     at printPathNoParens (<cwd>/src/language-js/printer-estree.js:378:14)
+[error]     at Object.genericPrint [as print] (<cwd>/src/language-js/printer-estree.js:88:19)
+[error]     at callPluginPrintFunction (<cwd>/src/main/ast-to-doc.js:133:21)
+[error]     at mainPrintInternal (<cwd>/src/main/ast-to-doc.js:76:17)
+[error]     at <cwd>/src/main/ast-to-doc.js:63:28
+[error]     at AstPath.call (<cwd>/src/common/ast-path.js:66:20)
+"
+`;
 
 exports[`CLI overrides take precedence (stdout) 1`] = `
 "function f() {
-	console.log(
-		\\"should have tab width 8\\"
-	)
-}
-function f() {
   console.log(
     \\"should have space width 2\\"
   )
-}
-function f() {
-        console.log(
-                \\"should have space width 8\\"
-        )
 }
 function f() {
   console.log(
@@ -38,11 +63,6 @@ console.log(
 console.log(
   \\"jest/Component.test.js should have semi\\"
 );
-function js() {
-        console.log(
-                \\"js/file.js should have tab width 8 (1 if CLI)\\"
-        );
-}
 \\"use strict\\";
 
 module.exports =
@@ -122,17 +142,46 @@ exports[`resolves configuration file with --find-config-path file (stdout) 1`] =
 
 exports[`resolves configuration file with --find-config-path file (write) 1`] = `Array []`;
 
-exports[`resolves configuration from external files (stderr) 1`] = `""`;
+exports[`resolves configuration from external files (stderr) 1`] = `
+"[error] editorconfig/file.js: TypeError: Cannot read properties of undefined (reading 'length')
+[error]     at getLast (<cwd>/src/utils/get-last.js:3:34)
+[error]     at shouldNotWrapMemberExpression (<cwd>/src/language-js/print/member-chain.js:302:22)
+[error]     at printMemberChain (<cwd>/src/language-js/print/member-chain.js:313:6)
+[error]     at printCallExpression (<cwd>/src/language-js/print/call-expression.js:84:12)
+[error]     at printPathNoParens (<cwd>/src/language-js/printer-estree.js:378:14)
+[error]     at Object.genericPrint [as print] (<cwd>/src/language-js/printer-estree.js:88:19)
+[error]     at callPluginPrintFunction (<cwd>/src/main/ast-to-doc.js:133:21)
+[error]     at mainPrintInternal (<cwd>/src/main/ast-to-doc.js:76:17)
+[error]     at <cwd>/src/main/ast-to-doc.js:63:28
+[error]     at AstPath.call (<cwd>/src/common/ast-path.js:66:20)
+[error] editorconfig/lib/indent_size=tab.js: TypeError: Cannot read properties of undefined (reading 'length')
+[error]     at getLast (<cwd>/src/utils/get-last.js:3:34)
+[error]     at shouldNotWrapMemberExpression (<cwd>/src/language-js/print/member-chain.js:302:22)
+[error]     at printMemberChain (<cwd>/src/language-js/print/member-chain.js:313:6)
+[error]     at printCallExpression (<cwd>/src/language-js/print/call-expression.js:84:12)
+[error]     at printPathNoParens (<cwd>/src/language-js/printer-estree.js:378:14)
+[error]     at Object.genericPrint [as print] (<cwd>/src/language-js/printer-estree.js:88:19)
+[error]     at callPluginPrintFunction (<cwd>/src/main/ast-to-doc.js:133:21)
+[error]     at mainPrintInternal (<cwd>/src/main/ast-to-doc.js:76:17)
+[error]     at <cwd>/src/main/ast-to-doc.js:63:28
+[error]     at AstPath.call (<cwd>/src/common/ast-path.js:66:20)
+[error] js/file.js: TypeError: Cannot read properties of undefined (reading 'length')
+[error]     at getLast (<cwd>/src/utils/get-last.js:3:34)
+[error]     at shouldNotWrapMemberExpression (<cwd>/src/language-js/print/member-chain.js:302:22)
+[error]     at printMemberChain (<cwd>/src/language-js/print/member-chain.js:313:6)
+[error]     at printCallExpression (<cwd>/src/language-js/print/call-expression.js:84:12)
+[error]     at printPathNoParens (<cwd>/src/language-js/printer-estree.js:378:14)
+[error]     at Object.genericPrint [as print] (<cwd>/src/language-js/printer-estree.js:88:19)
+[error]     at callPluginPrintFunction (<cwd>/src/main/ast-to-doc.js:133:21)
+[error]     at mainPrintInternal (<cwd>/src/main/ast-to-doc.js:76:17)
+[error]     at <cwd>/src/main/ast-to-doc.js:63:28
+[error]     at AstPath.call (<cwd>/src/common/ast-path.js:66:20)
+"
+`;
 
 exports[`resolves configuration from external files (stdout) 1`] = `
 "function f() {
-	console.log(\\"should have tab width 8\\")
-}
-function f() {
   console.log(\\"should have space width 2\\")
-}
-function f() {
-        console.log(\\"should have space width 8\\")
 }
 function f() {
   console.log(
@@ -144,9 +193,6 @@ console.log(\\"jest/__best-tests__/.file.js should have semi\\");
 console.log(\\"jest/__best-tests__/file.js should have semi\\");
 console.log(\\"jest/Component.js should not have semi\\")
 console.log(\\"jest/Component.test.js should have semi\\");
-function js() {
-        console.log(\\"js/file.js should have tab width 8 (1 if CLI)\\");
-}
 \\"use strict\\";
 
 module.exports = {

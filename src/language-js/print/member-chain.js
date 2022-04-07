@@ -298,10 +298,18 @@ function printMemberChain(path, options, print) {
     );
   }
 
+  function shouldNotWrapMemberExpression(groups) {
+    const lastNode = getLast(groups[0].node);
+    return (
+      isMemberExpression(groups[0][0].node) || isMemberExpression(lastNode)
+    );
+  }
+
   const shouldMerge =
     groups.length >= 2 &&
     !hasComment(groups[1][0].node) &&
-    shouldNotWrap(groups);
+    shouldNotWrap(groups) &&
+    !shouldNotWrapMemberExpression(groups);
 
   function printGroup(printedGroup) {
     const printed = printedGroup.map((tuple) => tuple.printed);
