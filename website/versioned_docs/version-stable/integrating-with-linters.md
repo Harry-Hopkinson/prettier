@@ -1,5 +1,5 @@
 ---
-id: version-stable-integrating-with-linters
+id: integrating-with-linters
 title: Integrating with Linters
 original_id: integrating-with-linters
 ---

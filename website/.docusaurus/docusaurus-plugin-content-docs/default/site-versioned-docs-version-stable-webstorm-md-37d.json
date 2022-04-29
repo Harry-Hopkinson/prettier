@@ -1,0 +1,27 @@
+{
+  "unversionedId": "webstorm",
+  "id": "version-stable/webstorm",
+  "title": "WebStorm Setup",
+  "description": "JetBrains IDEs (WebStorm, IntelliJ IDEA, PyCharm, etc.)",
+  "source": "@site/versioned_docs/version-stable/webstorm.md",
+  "sourceDirName": ".",
+  "slug": "/webstorm",
+  "permalink": "/docs/webstorm",
+  "editUrl": "https://github.com/prettier/prettier/edit/main/docs/versioned_docs/version-stable/webstorm.md",
+  "tags": [],
+  "version": "stable",
+  "frontMatter": {
+    "id": "webstorm",
+    "title": "WebStorm Setup",
+    "original_id": "webstorm"
+  },
+  "sidebar": "version-stable/docs",
+  "previous": {
+    "title": "Editor Integration",
+    "permalink": "/docs/editors"
+  },
+  "next": {
+    "title": "Vim Setup",
+    "permalink": "/docs/vim"
+  }
+}

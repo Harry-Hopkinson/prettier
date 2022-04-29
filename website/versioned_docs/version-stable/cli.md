@@ -1,5 +1,5 @@
 ---
-id: version-stable-cli
+id: cli
 title: CLI
 original_id: cli
 ---

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "option-philosophy",
+  "id": "option-philosophy",
+  "title": "Option Philosophy",
+  "description": "Prettier has a few options because of history. But we won’t add more of them.",
+  "source": "@site/../docs/option-philosophy.md",
+  "sourceDirName": ".",
+  "slug": "/option-philosophy",
+  "permalink": "/docs/next/option-philosophy",
+  "editUrl": "https://github.com/prettier/prettier/edit/main/docs/../docs/option-philosophy.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "option-philosophy",
+    "title": "Option Philosophy"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Prettier vs. Linters",
+    "permalink": "/docs/next/comparison"
+  },
+  "next": {
+    "title": "Rationale",
+    "permalink": "/docs/next/rationale"
+  }
+}

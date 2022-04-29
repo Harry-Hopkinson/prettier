@@ -1,0 +1,483 @@
+{
+  "/blog-7ee": {
+    "component": "a6aa9e1f",
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "5009e6a4"
+      },
+      {
+        "content": "e03215e1"
+      },
+      {
+        "content": "98309778"
+      },
+      {
+        "content": "fdd856f0"
+      },
+      {
+        "content": "1bdad831"
+      },
+      {
+        "content": "a092f5df"
+      },
+      {
+        "content": "1ba0375c"
+      },
+      {
+        "content": "c38db022"
+      },
+      {
+        "content": "4212f3da"
+      },
+      {
+        "content": "a3093539"
+      }
+    ],
+    "metadata": "b2b675dd",
+    "__routeContextModule": "7e27f6aa"
+  },
+  "/blog/2017/04/13/1.0.0-e59": {
+    "component": "ccc49370",
+    "sidebar": "814f3328",
+    "content": "3e1a6230",
+    "__routeContextModule": "7e27f6aa"
+  },
+  "/blog/2017/04/20/1.2.0-c5a": {
+    "component": "ccc49370",
+    "sidebar": "814f3328",
+    "content": "9177699c",
+    "__routeContextModule": "7e27f6aa"
+  },
+  "/blog/2017/05/03/1.3.0-137": {
+    "component": "ccc49370",
+    "sidebar": "814f3328",
+    "content": "77eddde0",
+    "__routeContextModule": "7e27f6aa"
+  },
+  "/blog/2017/06/03/1.4.0-c01": {
+    "component": "ccc49370",
+    "sidebar": "814f3328",
+    "content": "ccc9aa9f",
+    "__routeContextModule": "7e27f6aa"
+  },
+  "/blog/2017/06/28/1.5.0-f7b": {
+    "component": "ccc49370",
+    "sidebar": "814f3328",
+    "content": "8f461a9b",
+    "__routeContextModule": "7e27f6aa"
+  },
+  "/blog/2017/08/29/1.6.0-cae": {
+    "component": "ccc49370",
+    "sidebar": "814f3328",
+    "content": "330a8174",
+    "__routeContextModule": "7e27f6aa"
+  },
+  "/blog/2017/09/15/1.7.0-0f0": {
+    "component": "ccc49370",
+    "sidebar": "814f3328",
+    "content": "51ea3c66",
+    "__routeContextModule": "7e27f6aa"
+  },
+  "/blog/2017/11/07/1.8.0-601": {
+    "component": "ccc49370",
+    "sidebar": "814f3328",
+    "content": "8e622689",
+    "__routeContextModule": "7e27f6aa"
+  },
+  "/blog/2017/12/05/1.9.0-60f": {
+    "component": "ccc49370",
+    "sidebar": "814f3328",
+    "content": "9e7ba101",
+    "__routeContextModule": "7e27f6aa"
+  },
+  "/blog/2018/01/10/1.10.0-1e1": {
+    "component": "ccc49370",
+    "sidebar": "814f3328",
+    "content": "4f9ccca3",
+    "__routeContextModule": "7e27f6aa"
+  },
+  "/blog/2018/02/26/1.11.0-d3a": {
+    "component": "ccc49370",
+    "sidebar": "814f3328",
+    "content": "82826f36",
+    "__routeContextModule": "7e27f6aa"
+  },
+  "/blog/2018/04/09/plugin-php-0.1-c20": {
+    "component": "ccc49370",
+    "sidebar": "814f3328",
+    "content": "f157f108",
+    "__routeContextModule": "7e27f6aa"
+  },
+  "/blog/2018/04/11/1.12.0-3be": {
+    "component": "ccc49370",
+    "sidebar": "814f3328",
+    "content": "09f910b6",
+    "__routeContextModule": "7e27f6aa"
+  },
+  "/blog/2018/05/27/1.13.0-ed7": {
+    "component": "ccc49370",
+    "sidebar": "814f3328",
+    "content": "1d3f1e0f",
+    "__routeContextModule": "7e27f6aa"
+  },
+  "/blog/2018/07/29/1.14.0-4b2": {
+    "component": "ccc49370",
+    "sidebar": "814f3328",
+    "content": "2e03b2fe",
+    "__routeContextModule": "7e27f6aa"
+  },
+  "/blog/2018/11/07/1.15.0-c4a": {
+    "component": "ccc49370",
+    "sidebar": "814f3328",
+    "content": "869db49e",
+    "__routeContextModule": "7e27f6aa"
+  },
+  "/blog/2019/01/20/1.16.0-ab6": {
+    "component": "ccc49370",
+    "sidebar": "814f3328",
+    "content": "cd60dbde",
+    "__routeContextModule": "7e27f6aa"
+  },
+  "/blog/2019/04/12/1.17.0-11d": {
+    "component": "ccc49370",
+    "sidebar": "814f3328",
+    "content": "b73dc35c",
+    "__routeContextModule": "7e27f6aa"
+  },
+  "/blog/2019/06/06/1.18.0-dae": {
+    "component": "ccc49370",
+    "sidebar": "814f3328",
+    "content": "f996cbc3",
+    "__routeContextModule": "7e27f6aa"
+  },
+  "/blog/2019/11/09/1.19.0-f75": {
+    "component": "ccc49370",
+    "sidebar": "814f3328",
+    "content": "fd8cfe61",
+    "__routeContextModule": "7e27f6aa"
+  },
+  "/blog/2020/03/21/2.0.0-c55": {
+    "component": "ccc49370",
+    "sidebar": "814f3328",
+    "content": "0c83c4d1",
+    "__routeContextModule": "7e27f6aa"
+  },
+  "/blog/2020/08/24/2.1.0-7b1": {
+    "component": "ccc49370",
+    "sidebar": "814f3328",
+    "content": "9a063c58",
+    "__routeContextModule": "7e27f6aa"
+  },
+  "/blog/2020/11/20/2.2.0-d2e": {
+    "component": "ccc49370",
+    "sidebar": "814f3328",
+    "content": "3b369f1b",
+    "__routeContextModule": "7e27f6aa"
+  },
+  "/blog/2020/12/11/plugin-ruby-1.0-903": {
+    "component": "ccc49370",
+    "sidebar": "814f3328",
+    "content": "c2231eb1",
+    "__routeContextModule": "7e27f6aa"
+  },
+  "/blog/2021/05/09/2.3.0-bca": {
+    "component": "ccc49370",
+    "sidebar": "814f3328",
+    "content": "ec946171",
+    "__routeContextModule": "7e27f6aa"
+  },
+  "/blog/2021/09/09/2.4.0-790": {
+    "component": "ccc49370",
+    "sidebar": "814f3328",
+    "content": "1b48fa4c",
+    "__routeContextModule": "7e27f6aa"
+  },
+  "/blog/2021/11/25/2.5.0-e3f": {
+    "component": "ccc49370",
+    "sidebar": "814f3328",
+    "content": "478e414e",
+    "__routeContextModule": "7e27f6aa"
+  },
+  "/blog/2022/01/06/prettier-begins-paying-maintainers-c35": {
+    "component": "ccc49370",
+    "sidebar": "814f3328",
+    "content": "6ad0c971",
+    "__routeContextModule": "7e27f6aa"
+  },
+  "/blog/2022/03/16/2.6.0-aa8": {
+    "component": "ccc49370",
+    "sidebar": "814f3328",
+    "content": "0253aae8",
+    "__routeContextModule": "7e27f6aa"
+  },
+  "/blog/archive-7de": {
+    "component": "9e4087bc",
+    "archive": "b2f554cd",
+    "__routeContextModule": "7e27f6aa"
+  },
+  "/blog/page/2-164": {
+    "component": "a6aa9e1f",
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "2a8e7047"
+      },
+      {
+        "content": "e09220dd"
+      },
+      {
+        "content": "a186775e"
+      },
+      {
+        "content": "bd15cdf3"
+      },
+      {
+        "content": "5b246c08"
+      },
+      {
+        "content": "ed6401ea"
+      },
+      {
+        "content": "de2d2d2d"
+      },
+      {
+        "content": "e113459b"
+      },
+      {
+        "content": "8854607b"
+      },
+      {
+        "content": "5b01175f"
+      }
+    ],
+    "metadata": "8eb4e46b",
+    "__routeContextModule": "7e27f6aa"
+  },
+  "/blog/page/3-4bb": {
+    "component": "a6aa9e1f",
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "257b00aa"
+      },
+      {
+        "content": "a12d6bbb"
+      },
+      {
+        "content": "61054962"
+      },
+      {
+        "content": "dce414b3"
+      },
+      {
+        "content": "a93508bb"
+      },
+      {
+        "content": "bb730d83"
+      },
+      {
+        "content": "e95a28d2"
+      },
+      {
+        "content": "66f2257e"
+      },
+      {
+        "content": "2ce7ac24"
+      }
+    ],
+    "metadata": "92999a1c",
+    "__routeContextModule": "7e27f6aa"
+  },
+  "/docs/next-940": {
+    "component": "1be78505",
+    "versionMetadata": "935f2afb",
+    "__routeContextModule": "bc2d3f14"
+  },
+  "/docs/next/-7b2": {
+    "component": "17896441",
+    "content": "03a88bad"
+  },
+  "/docs/next/api-b01": {
+    "component": "17896441",
+    "content": "e111f111"
+  },
+  "/docs/next/browser-29c": {
+    "component": "17896441",
+    "content": "fc756b2a"
+  },
+  "/docs/next/cli-fbe": {
+    "component": "17896441",
+    "content": "a9a2e533"
+  },
+  "/docs/next/comparison-46c": {
+    "component": "17896441",
+    "content": "aec1c373"
+  },
+  "/docs/next/configuration-61c": {
+    "component": "17896441",
+    "content": "2bbf879d"
+  },
+  "/docs/next/editors-bd3": {
+    "component": "17896441",
+    "content": "f99ab765"
+  },
+  "/docs/next/for-enterprise-6b4": {
+    "component": "17896441",
+    "content": "f04e1c83"
+  },
+  "/docs/next/ignore-1e0": {
+    "component": "17896441",
+    "content": "f2ea955d"
+  },
+  "/docs/next/install-a2e": {
+    "component": "17896441",
+    "content": "bf8f9bb3"
+  },
+  "/docs/next/integrating-with-linters-bff": {
+    "component": "17896441",
+    "content": "606e7ca8"
+  },
+  "/docs/next/option-philosophy-ed2": {
+    "component": "17896441",
+    "content": "592f0b57"
+  },
+  "/docs/next/options-189": {
+    "component": "17896441",
+    "content": "0a280f8d"
+  },
+  "/docs/next/plugins-ed9": {
+    "component": "17896441",
+    "content": "e360e27f"
+  },
+  "/docs/next/precommit-617": {
+    "component": "17896441",
+    "content": "47289ed0"
+  },
+  "/docs/next/rationale-229": {
+    "component": "17896441",
+    "content": "8ab41b8b"
+  },
+  "/docs/next/related-projects-5b8": {
+    "component": "17896441",
+    "content": "89140388"
+  },
+  "/docs/next/technical-details-55f": {
+    "component": "17896441",
+    "content": "73d00e7a"
+  },
+  "/docs/next/vim-453": {
+    "component": "17896441",
+    "content": "279d284d"
+  },
+  "/docs/next/watching-files-dee": {
+    "component": "17896441",
+    "content": "b60e89cb"
+  },
+  "/docs/next/webstorm-6ae": {
+    "component": "17896441",
+    "content": "2f771ed4"
+  },
+  "/docs/next/why-prettier-b5c": {
+    "component": "17896441",
+    "content": "74e517de"
+  },
+  "/docs-79d": {
+    "component": "1be78505",
+    "versionMetadata": "1fb8e72b",
+    "__routeContextModule": "bc2d3f14"
+  },
+  "/docs/-0d5": {
+    "component": "17896441",
+    "content": "7205fb11"
+  },
+  "/docs/api-4ca": {
+    "component": "17896441",
+    "content": "05988257"
+  },
+  "/docs/browser-8af": {
+    "component": "17896441",
+    "content": "528ffe5f"
+  },
+  "/docs/cli-839": {
+    "component": "17896441",
+    "content": "c6ef9ffb"
+  },
+  "/docs/comparison-296": {
+    "component": "17896441",
+    "content": "a02fc01d"
+  },
+  "/docs/configuration-f0c": {
+    "component": "17896441",
+    "content": "44c5acf4"
+  },
+  "/docs/editors-839": {
+    "component": "17896441",
+    "content": "3bf4c1e5"
+  },
+  "/docs/for-enterprise-ab9": {
+    "component": "17896441",
+    "content": "a11ed09b"
+  },
+  "/docs/ignore-47d": {
+    "component": "17896441",
+    "content": "e3cb8e0e"
+  },
+  "/docs/install-8c1": {
+    "component": "17896441",
+    "content": "d9ac63f6"
+  },
+  "/docs/integrating-with-linters-b61": {
+    "component": "17896441",
+    "content": "4f9f32e8"
+  },
+  "/docs/option-philosophy-597": {
+    "component": "17896441",
+    "content": "3fb28bd9"
+  },
+  "/docs/options-312": {
+    "component": "17896441",
+    "content": "4665a299"
+  },
+  "/docs/plugins-cfd": {
+    "component": "17896441",
+    "content": "6cd78a97"
+  },
+  "/docs/precommit-b28": {
+    "component": "17896441",
+    "content": "a8205ea2"
+  },
+  "/docs/rationale-16f": {
+    "component": "17896441",
+    "content": "e5a29a1c"
+  },
+  "/docs/related-projects-648": {
+    "component": "17896441",
+    "content": "cebb8b1f"
+  },
+  "/docs/technical-details-981": {
+    "component": "17896441",
+    "content": "03b4776e"
+  },
+  "/docs/vim-dd4": {
+    "component": "17896441",
+    "content": "37e7037e"
+  },
+  "/docs/watching-files-5f4": {
+    "component": "17896441",
+    "content": "8a60fdca"
+  },
+  "/docs/webstorm-99a": {
+    "component": "17896441",
+    "content": "37df2dee"
+  },
+  "/docs/why-prettier-b0c": {
+    "component": "17896441",
+    "content": "42f565c9"
+  },
+  "/-d75": {
+    "component": "c4f5d8e4",
+    "config": "5e9f5e1a",
+    "__routeContextModule": "4c19c6ad"
+  }
+}

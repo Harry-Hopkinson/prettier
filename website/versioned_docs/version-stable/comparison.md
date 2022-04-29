@@ -1,5 +1,5 @@
 ---
-id: version-stable-comparison
+id: comparison
 title: Prettier vs. Linters
 original_id: comparison
 ---

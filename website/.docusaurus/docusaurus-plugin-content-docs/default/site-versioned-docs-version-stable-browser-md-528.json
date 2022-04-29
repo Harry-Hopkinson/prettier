@@ -1,0 +1,27 @@
+{
+  "unversionedId": "browser",
+  "id": "version-stable/browser",
+  "title": "Browser",
+  "description": "Run Prettier in the browser using its standalone version. This version doesn’t depend on Node.js. It only formats the code and has no support for config files, ignore files, CLI usage, or automatic loading of plugins.",
+  "source": "@site/versioned_docs/version-stable/browser.md",
+  "sourceDirName": ".",
+  "slug": "/browser",
+  "permalink": "/docs/browser",
+  "editUrl": "https://github.com/prettier/prettier/edit/main/docs/versioned_docs/version-stable/browser.md",
+  "tags": [],
+  "version": "stable",
+  "frontMatter": {
+    "id": "browser",
+    "title": "Browser",
+    "original_id": "browser"
+  },
+  "sidebar": "version-stable/docs",
+  "previous": {
+    "title": "API",
+    "permalink": "/docs/api"
+  },
+  "next": {
+    "title": "Options",
+    "permalink": "/docs/options"
+  }
+}

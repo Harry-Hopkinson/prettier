@@ -1,0 +1,27 @@
+{
+  "unversionedId": "technical-details",
+  "id": "version-stable/technical-details",
+  "title": "Technical Details",
+  "description": "This printer is a fork of recast’s printer with its algorithm replaced by the one described by Wadler in \"A prettier printer\". There still may be leftover code from recast that needs to be cleaned up.",
+  "source": "@site/versioned_docs/version-stable/technical-details.md",
+  "sourceDirName": ".",
+  "slug": "/technical-details",
+  "permalink": "/docs/technical-details",
+  "editUrl": "https://github.com/prettier/prettier/edit/main/docs/versioned_docs/version-stable/technical-details.md",
+  "tags": [],
+  "version": "stable",
+  "frontMatter": {
+    "id": "technical-details",
+    "title": "Technical Details",
+    "original_id": "technical-details"
+  },
+  "sidebar": "version-stable/docs",
+  "previous": {
+    "title": "Watching For Changes",
+    "permalink": "/docs/watching-files"
+  },
+  "next": {
+    "title": "Related Projects",
+    "permalink": "/docs/related-projects"
+  }
+}

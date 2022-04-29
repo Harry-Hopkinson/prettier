@@ -1,5 +1,5 @@
 ---
-id: version-stable-vim
+id: vim
 title: Vim Setup
 original_id: vim
 ---

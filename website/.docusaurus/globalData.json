@@ -1,0 +1,264 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": false,
+          "path": "/docs/next",
+          "mainDocId": "index",
+          "docs": [
+            {
+              "id": "api",
+              "path": "/docs/next/api",
+              "sidebar": "docs"
+            },
+            {
+              "id": "browser",
+              "path": "/docs/next/browser",
+              "sidebar": "docs"
+            },
+            {
+              "id": "cli",
+              "path": "/docs/next/cli",
+              "sidebar": "docs"
+            },
+            {
+              "id": "comparison",
+              "path": "/docs/next/comparison",
+              "sidebar": "docs"
+            },
+            {
+              "id": "configuration",
+              "path": "/docs/next/configuration",
+              "sidebar": "docs"
+            },
+            {
+              "id": "editors",
+              "path": "/docs/next/editors",
+              "sidebar": "docs"
+            },
+            {
+              "id": "for-enterprise",
+              "path": "/docs/next/for-enterprise",
+              "sidebar": "docs"
+            },
+            {
+              "id": "ignore",
+              "path": "/docs/next/ignore",
+              "sidebar": "docs"
+            },
+            {
+              "id": "index",
+              "path": "/docs/next/",
+              "sidebar": "docs"
+            },
+            {
+              "id": "install",
+              "path": "/docs/next/install",
+              "sidebar": "docs"
+            },
+            {
+              "id": "integrating-with-linters",
+              "path": "/docs/next/integrating-with-linters",
+              "sidebar": "docs"
+            },
+            {
+              "id": "option-philosophy",
+              "path": "/docs/next/option-philosophy",
+              "sidebar": "docs"
+            },
+            {
+              "id": "options",
+              "path": "/docs/next/options",
+              "sidebar": "docs"
+            },
+            {
+              "id": "plugins",
+              "path": "/docs/next/plugins",
+              "sidebar": "docs"
+            },
+            {
+              "id": "precommit",
+              "path": "/docs/next/precommit",
+              "sidebar": "docs"
+            },
+            {
+              "id": "rationale",
+              "path": "/docs/next/rationale",
+              "sidebar": "docs"
+            },
+            {
+              "id": "related-projects",
+              "path": "/docs/next/related-projects",
+              "sidebar": "docs"
+            },
+            {
+              "id": "technical-details",
+              "path": "/docs/next/technical-details",
+              "sidebar": "docs"
+            },
+            {
+              "id": "vim",
+              "path": "/docs/next/vim",
+              "sidebar": "docs"
+            },
+            {
+              "id": "watching-files",
+              "path": "/docs/next/watching-files",
+              "sidebar": "docs"
+            },
+            {
+              "id": "webstorm",
+              "path": "/docs/next/webstorm",
+              "sidebar": "docs"
+            },
+            {
+              "id": "why-prettier",
+              "path": "/docs/next/why-prettier",
+              "sidebar": "docs"
+            }
+          ],
+          "sidebars": {
+            "docs": {
+              "link": {
+                "path": "/docs/next/",
+                "label": "index"
+              }
+            }
+          }
+        },
+        {
+          "name": "stable",
+          "label": "stable",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "index",
+          "docs": [
+            {
+              "id": "api",
+              "path": "/docs/api",
+              "sidebar": "version-stable/docs"
+            },
+            {
+              "id": "browser",
+              "path": "/docs/browser",
+              "sidebar": "version-stable/docs"
+            },
+            {
+              "id": "cli",
+              "path": "/docs/cli",
+              "sidebar": "version-stable/docs"
+            },
+            {
+              "id": "comparison",
+              "path": "/docs/comparison",
+              "sidebar": "version-stable/docs"
+            },
+            {
+              "id": "configuration",
+              "path": "/docs/configuration",
+              "sidebar": "version-stable/docs"
+            },
+            {
+              "id": "editors",
+              "path": "/docs/editors",
+              "sidebar": "version-stable/docs"
+            },
+            {
+              "id": "for-enterprise",
+              "path": "/docs/for-enterprise",
+              "sidebar": "version-stable/docs"
+            },
+            {
+              "id": "ignore",
+              "path": "/docs/ignore",
+              "sidebar": "version-stable/docs"
+            },
+            {
+              "id": "index",
+              "path": "/docs/",
+              "sidebar": "version-stable/docs"
+            },
+            {
+              "id": "install",
+              "path": "/docs/install",
+              "sidebar": "version-stable/docs"
+            },
+            {
+              "id": "integrating-with-linters",
+              "path": "/docs/integrating-with-linters",
+              "sidebar": "version-stable/docs"
+            },
+            {
+              "id": "option-philosophy",
+              "path": "/docs/option-philosophy",
+              "sidebar": "version-stable/docs"
+            },
+            {
+              "id": "options",
+              "path": "/docs/options",
+              "sidebar": "version-stable/docs"
+            },
+            {
+              "id": "plugins",
+              "path": "/docs/plugins",
+              "sidebar": "version-stable/docs"
+            },
+            {
+              "id": "precommit",
+              "path": "/docs/precommit",
+              "sidebar": "version-stable/docs"
+            },
+            {
+              "id": "rationale",
+              "path": "/docs/rationale",
+              "sidebar": "version-stable/docs"
+            },
+            {
+              "id": "related-projects",
+              "path": "/docs/related-projects",
+              "sidebar": "version-stable/docs"
+            },
+            {
+              "id": "technical-details",
+              "path": "/docs/technical-details",
+              "sidebar": "version-stable/docs"
+            },
+            {
+              "id": "vim",
+              "path": "/docs/vim",
+              "sidebar": "version-stable/docs"
+            },
+            {
+              "id": "watching-files",
+              "path": "/docs/watching-files",
+              "sidebar": "version-stable/docs"
+            },
+            {
+              "id": "webstorm",
+              "path": "/docs/webstorm",
+              "sidebar": "version-stable/docs"
+            },
+            {
+              "id": "why-prettier",
+              "path": "/docs/why-prettier",
+              "sidebar": "version-stable/docs"
+            }
+          ],
+          "sidebars": {
+            "version-stable/docs": {
+              "link": {
+                "path": "/docs/",
+                "label": "version-stable/index"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

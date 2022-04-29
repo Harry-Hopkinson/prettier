@@ -1,0 +1,27 @@
+{
+  "unversionedId": "rationale",
+  "id": "version-stable/rationale",
+  "title": "Rationale",
+  "description": "Prettier is an opinionated code formatter. This document explains some of its choices.",
+  "source": "@site/versioned_docs/version-stable/rationale.md",
+  "sourceDirName": ".",
+  "slug": "/rationale",
+  "permalink": "/docs/rationale",
+  "editUrl": "https://github.com/prettier/prettier/edit/main/docs/versioned_docs/version-stable/rationale.md",
+  "tags": [],
+  "version": "stable",
+  "frontMatter": {
+    "id": "rationale",
+    "title": "Rationale",
+    "original_id": "rationale"
+  },
+  "sidebar": "version-stable/docs",
+  "previous": {
+    "title": "Option Philosophy",
+    "permalink": "/docs/option-philosophy"
+  },
+  "next": {
+    "title": "Install",
+    "permalink": "/docs/install"
+  }
+}

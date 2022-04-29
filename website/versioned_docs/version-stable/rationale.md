@@ -1,5 +1,5 @@
 ---
-id: version-stable-rationale
+id: rationale
 title: Rationale
 original_id: rationale
 ---

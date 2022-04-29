@@ -1,5 +1,5 @@
 ---
-id: version-stable-plugins
+id: plugins
 title: Plugins
 original_id: plugins
 ---

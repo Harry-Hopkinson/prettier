@@ -1,5 +1,5 @@
 ---
-id: version-stable-ignore
+id: ignore
 title: Ignoring Code
 original_id: ignore
 ---

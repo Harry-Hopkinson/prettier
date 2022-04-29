@@ -1,0 +1,27 @@
+{
+  "unversionedId": "options",
+  "id": "version-stable/options",
+  "title": "Options",
+  "description": "Prettier ships with a handful of format options.",
+  "source": "@site/versioned_docs/version-stable/options.md",
+  "sourceDirName": ".",
+  "slug": "/options",
+  "permalink": "/docs/options",
+  "editUrl": "https://github.com/prettier/prettier/edit/main/docs/versioned_docs/version-stable/options.md",
+  "tags": [],
+  "version": "stable",
+  "frontMatter": {
+    "id": "options",
+    "title": "Options",
+    "original_id": "options"
+  },
+  "sidebar": "version-stable/docs",
+  "previous": {
+    "title": "Browser",
+    "permalink": "/docs/browser"
+  },
+  "next": {
+    "title": "Configuration File",
+    "permalink": "/docs/configuration"
+  }
+}

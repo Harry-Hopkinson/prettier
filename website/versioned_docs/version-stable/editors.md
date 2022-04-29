@@ -1,5 +1,5 @@
 ---
-id: version-stable-editors
+id: editors
 title: Editor Integration
 original_id: editors
 ---

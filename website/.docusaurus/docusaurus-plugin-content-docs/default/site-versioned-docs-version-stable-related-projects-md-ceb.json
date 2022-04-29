@@ -1,0 +1,27 @@
+{
+  "unversionedId": "related-projects",
+  "id": "version-stable/related-projects",
+  "title": "Related Projects",
+  "description": "ESLint Integrations",
+  "source": "@site/versioned_docs/version-stable/related-projects.md",
+  "sourceDirName": ".",
+  "slug": "/related-projects",
+  "permalink": "/docs/related-projects",
+  "editUrl": "https://github.com/prettier/prettier/edit/main/docs/versioned_docs/version-stable/related-projects.md",
+  "tags": [],
+  "version": "stable",
+  "frontMatter": {
+    "id": "related-projects",
+    "title": "Related Projects",
+    "original_id": "related-projects"
+  },
+  "sidebar": "version-stable/docs",
+  "previous": {
+    "title": "Technical Details",
+    "permalink": "/docs/technical-details"
+  },
+  "next": {
+    "title": "For Enterprise",
+    "permalink": "/docs/for-enterprise"
+  }
+}
