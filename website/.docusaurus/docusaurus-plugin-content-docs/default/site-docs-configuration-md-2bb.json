@@ -1,0 +1,26 @@
+{
+  "unversionedId": "configuration",
+  "id": "configuration",
+  "title": "Configuration File",
+  "description": "Prettier uses cosmiconfig for configuration file support. This means you can configure Prettier via (in order of precedence):",
+  "source": "@site/../docs/configuration.md",
+  "sourceDirName": ".",
+  "slug": "/configuration",
+  "permalink": "/docs/next/configuration",
+  "editUrl": "https://github.com/prettier/prettier/edit/main/docs/../docs/configuration.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "configuration",
+    "title": "Configuration File"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Options",
+    "permalink": "/docs/next/options"
+  },
+  "next": {
+    "title": "Editor Integration",
+    "permalink": "/docs/next/editors"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "unversionedId": "plugins",
+  "id": "version-stable/plugins",
+  "title": "Plugins",
+  "description": "Plugins are ways of adding new languages or formatting rules to Prettier. Prettier’s own implementations of all languages are expressed using the plugin API. The core prettier package contains JavaScript and other web-focused languages built in. For additional languages you’ll need to install a plugin.",
+  "source": "@site/versioned_docs/version-stable/plugins.md",
+  "sourceDirName": ".",
+  "slug": "/plugins",
+  "permalink": "/docs/plugins",
+  "editUrl": "https://github.com/prettier/prettier/edit/main/docs/versioned_docs/version-stable/plugins.md",
+  "tags": [],
+  "version": "stable",
+  "frontMatter": {
+    "id": "plugins",
+    "title": "Plugins",
+    "original_id": "plugins"
+  },
+  "sidebar": "version-stable/docs",
+  "previous": {
+    "title": "Pre-commit Hook",
+    "permalink": "/docs/precommit"
+  },
+  "next": {
+    "title": "CLI",
+    "permalink": "/docs/cli"
+  }
+}

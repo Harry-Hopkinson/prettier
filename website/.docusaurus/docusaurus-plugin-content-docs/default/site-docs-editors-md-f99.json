@@ -1,0 +1,26 @@
+{
+  "unversionedId": "editors",
+  "id": "editors",
+  "title": "Editor Integration",
+  "description": "To get the most out of Prettier, it’s recommended to run it from your editor.",
+  "source": "@site/../docs/editors.md",
+  "sourceDirName": ".",
+  "slug": "/editors",
+  "permalink": "/docs/next/editors",
+  "editUrl": "https://github.com/prettier/prettier/edit/main/docs/../docs/editors.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "editors",
+    "title": "Editor Integration"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Configuration File",
+    "permalink": "/docs/next/configuration"
+  },
+  "next": {
+    "title": "WebStorm Setup",
+    "permalink": "/docs/next/webstorm"
+  }
+}

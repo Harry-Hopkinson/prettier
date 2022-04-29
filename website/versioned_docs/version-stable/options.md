@@ -1,5 +1,5 @@
 ---
-id: version-stable-options
+id: options
 title: Options
 original_id: options
 ---

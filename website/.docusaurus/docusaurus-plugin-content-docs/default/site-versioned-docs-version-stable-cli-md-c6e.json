@@ -1,0 +1,27 @@
+{
+  "unversionedId": "cli",
+  "id": "version-stable/cli",
+  "title": "CLI",
+  "description": "Use the prettier command to run Prettier from the command line.",
+  "source": "@site/versioned_docs/version-stable/cli.md",
+  "sourceDirName": ".",
+  "slug": "/cli",
+  "permalink": "/docs/cli",
+  "editUrl": "https://github.com/prettier/prettier/edit/main/docs/versioned_docs/version-stable/cli.md",
+  "tags": [],
+  "version": "stable",
+  "frontMatter": {
+    "id": "cli",
+    "title": "CLI",
+    "original_id": "cli"
+  },
+  "sidebar": "version-stable/docs",
+  "previous": {
+    "title": "Plugins",
+    "permalink": "/docs/plugins"
+  },
+  "next": {
+    "title": "API",
+    "permalink": "/docs/api"
+  }
+}

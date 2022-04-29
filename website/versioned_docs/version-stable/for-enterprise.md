@@ -1,5 +1,5 @@
 ---
-id: version-stable-for-enterprise
+id: for-enterprise
 title: For Enterprise
 original_id: for-enterprise
 ---

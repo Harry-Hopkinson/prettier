@@ -1,5 +1,5 @@
 ---
-id: version-stable-precommit
+id: precommit
 title: Pre-commit Hook
 original_id: precommit
 ---

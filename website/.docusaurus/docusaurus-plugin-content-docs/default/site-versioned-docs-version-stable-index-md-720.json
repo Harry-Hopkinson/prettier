@@ -1,0 +1,23 @@
+{
+  "unversionedId": "index",
+  "id": "version-stable/index",
+  "title": "What is Prettier?",
+  "description": "Prettier is an opinionated code formatter with support for:",
+  "source": "@site/versioned_docs/version-stable/index.md",
+  "sourceDirName": ".",
+  "slug": "/",
+  "permalink": "/docs/",
+  "editUrl": "https://github.com/prettier/prettier/edit/main/docs/versioned_docs/version-stable/index.md",
+  "tags": [],
+  "version": "stable",
+  "frontMatter": {
+    "id": "index",
+    "title": "What is Prettier?",
+    "original_id": "index"
+  },
+  "sidebar": "version-stable/docs",
+  "next": {
+    "title": "Why Prettier?",
+    "permalink": "/docs/why-prettier"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "vim",
+  "id": "vim",
+  "title": "Vim Setup",
+  "description": "Vim users can install either vim-prettier, which is Prettier specific, or Neoformat or ALE which are generalized lint/format engines with support for Prettier.",
+  "source": "@site/../docs/vim.md",
+  "sourceDirName": ".",
+  "slug": "/vim",
+  "permalink": "/docs/next/vim",
+  "editUrl": "https://github.com/prettier/prettier/edit/main/docs/../docs/vim.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "vim",
+    "title": "Vim Setup"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "WebStorm Setup",
+    "permalink": "/docs/next/webstorm"
+  },
+  "next": {
+    "title": "Watching For Changes",
+    "permalink": "/docs/next/watching-files"
+  }
+}

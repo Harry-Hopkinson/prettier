@@ -1,5 +1,5 @@
 ---
-id: version-stable-technical-details
+id: technical-details
 title: Technical Details
 original_id: technical-details
 ---
