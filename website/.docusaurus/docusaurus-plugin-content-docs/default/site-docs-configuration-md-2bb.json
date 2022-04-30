@@ -10,6 +10,9 @@
   "editUrl": "https://github.com/prettier/prettier/edit/main/docs/../docs/configuration.md",
   "tags": [],
   "version": "current",
+  "lastUpdatedBy": "Chris Midgley",
+  "lastUpdatedAt": 1638300247,
+  "formattedLastUpdatedAt": "11/30/2021",
   "frontMatter": {
     "id": "configuration",
     "title": "Configuration File"

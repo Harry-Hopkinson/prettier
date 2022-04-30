@@ -10,6 +10,9 @@
   "editUrl": "https://github.com/prettier/prettier/edit/main/docs/../docs/editors.md",
   "tags": [],
   "version": "current",
+  "lastUpdatedBy": "Radon Rosborough",
+  "lastUpdatedAt": 1595251027,
+  "formattedLastUpdatedAt": "7/20/2020",
   "frontMatter": {
     "id": "editors",
     "title": "Editor Integration"

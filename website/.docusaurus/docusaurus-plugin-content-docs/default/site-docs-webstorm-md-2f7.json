@@ -10,6 +10,9 @@
   "editUrl": "https://github.com/prettier/prettier/edit/main/docs/../docs/webstorm.md",
   "tags": [],
   "version": "current",
+  "lastUpdatedBy": "Vlad Sholokhov",
+  "lastUpdatedAt": 1638503230,
+  "formattedLastUpdatedAt": "12/3/2021",
   "frontMatter": {
     "id": "webstorm",
     "title": "WebStorm Setup"

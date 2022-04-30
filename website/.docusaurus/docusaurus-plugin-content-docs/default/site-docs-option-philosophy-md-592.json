@@ -10,6 +10,9 @@
   "editUrl": "https://github.com/prettier/prettier/edit/main/docs/../docs/option-philosophy.md",
   "tags": [],
   "version": "current",
+  "lastUpdatedBy": "kurtztech",
+  "lastUpdatedAt": 1630378070,
+  "formattedLastUpdatedAt": "8/31/2021",
   "frontMatter": {
     "id": "option-philosophy",
     "title": "Option Philosophy"

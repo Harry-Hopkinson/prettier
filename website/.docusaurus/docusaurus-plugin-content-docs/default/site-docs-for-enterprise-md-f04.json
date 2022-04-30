@@ -10,6 +10,9 @@
   "editUrl": "https://github.com/prettier/prettier/edit/main/docs/../docs/for-enterprise.md",
   "tags": [],
   "version": "current",
+  "lastUpdatedBy": "Blaine Bublitz",
+  "lastUpdatedAt": 1579816344,
+  "formattedLastUpdatedAt": "1/23/2020",
   "frontMatter": {
     "id": "for-enterprise",
     "title": "For Enterprise"

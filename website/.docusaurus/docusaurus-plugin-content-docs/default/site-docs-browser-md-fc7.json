@@ -10,6 +10,9 @@
   "editUrl": "https://github.com/prettier/prettier/edit/main/docs/../docs/browser.md",
   "tags": [],
   "version": "current",
+  "lastUpdatedBy": "Sosuke Suzuki",
+  "lastUpdatedAt": 1648917080,
+  "formattedLastUpdatedAt": "4/2/2022",
   "frontMatter": {
     "id": "browser",
     "title": "Browser"

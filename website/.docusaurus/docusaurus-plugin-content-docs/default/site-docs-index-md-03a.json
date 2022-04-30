@@ -10,6 +10,9 @@
   "editUrl": "https://github.com/prettier/prettier/edit/main/docs/../docs/index.md",
   "tags": [],
   "version": "current",
+  "lastUpdatedBy": "Ananta Krsna dasa",
+  "lastUpdatedAt": 1647159058,
+  "formattedLastUpdatedAt": "3/13/2022",
   "frontMatter": {
     "id": "index",
     "title": "What is Prettier?"

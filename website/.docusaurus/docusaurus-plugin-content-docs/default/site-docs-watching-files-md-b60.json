@@ -10,6 +10,9 @@
   "editUrl": "https://github.com/prettier/prettier/edit/main/docs/../docs/watching-files.md",
   "tags": [],
   "version": "current",
+  "lastUpdatedBy": "fisker Cheung",
+  "lastUpdatedAt": 1597972319,
+  "formattedLastUpdatedAt": "8/21/2020",
   "frontMatter": {
     "id": "watching-files",
     "title": "Watching For Changes"

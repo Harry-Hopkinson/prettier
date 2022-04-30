@@ -10,6 +10,9 @@
   "editUrl": "https://github.com/prettier/prettier/edit/main/docs/../docs/vim.md",
   "tags": [],
   "version": "current",
+  "lastUpdatedBy": "Wyatt Anderson",
+  "lastUpdatedAt": 1639963313,
+  "formattedLastUpdatedAt": "12/20/2021",
   "frontMatter": {
     "id": "vim",
     "title": "Vim Setup"

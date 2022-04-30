@@ -10,6 +10,9 @@
   "editUrl": "https://github.com/prettier/prettier/edit/main/docs/../docs/precommit.md",
   "tags": [],
   "version": "current",
+  "lastUpdatedBy": "AliReZa Sabouri",
+  "lastUpdatedAt": 1641347003,
+  "formattedLastUpdatedAt": "1/5/2022",
   "frontMatter": {
     "id": "precommit",
     "title": "Pre-commit Hook"

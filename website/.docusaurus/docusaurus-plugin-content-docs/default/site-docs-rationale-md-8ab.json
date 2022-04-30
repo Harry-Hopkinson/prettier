@@ -10,6 +10,9 @@
   "editUrl": "https://github.com/prettier/prettier/edit/main/docs/../docs/rationale.md",
   "tags": [],
   "version": "current",
+  "lastUpdatedBy": "Georgii Dolzhykov",
+  "lastUpdatedAt": 1621543245,
+  "formattedLastUpdatedAt": "5/20/2021",
   "frontMatter": {
     "id": "rationale",
     "title": "Rationale"

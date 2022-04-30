@@ -10,7 +10,7 @@ Tidelift is working with the maintainers of Prettier and thousands of other open
 <a class="button" href="https://tidelift.com/subscription/pkg/npm-prettier?utm_source=npm-prettier&utm_medium=referral&utm_campaign=enterprise">Learn more</a>
 <a class="button" href="https://tidelift.com/subscription/request-a-demo?utm_source=npm-prettier&utm_medium=referral&utm_campaign=enterprise">Request a demo</a>
 
-<br>
+</br>
 
 ### Enterprise-ready open source software—managed for you
 

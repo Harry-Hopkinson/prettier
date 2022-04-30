@@ -10,6 +10,9 @@
   "editUrl": "https://github.com/prettier/prettier/edit/main/docs/../docs/technical-details.md",
   "tags": [],
   "version": "current",
+  "lastUpdatedBy": "fisker Cheung",
+  "lastUpdatedAt": 1611422053,
+  "formattedLastUpdatedAt": "1/23/2021",
   "frontMatter": {
     "id": "technical-details",
     "title": "Technical Details"

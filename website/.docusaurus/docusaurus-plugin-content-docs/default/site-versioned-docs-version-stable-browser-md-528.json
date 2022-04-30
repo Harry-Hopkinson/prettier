@@ -10,6 +10,9 @@
   "editUrl": "https://github.com/prettier/prettier/edit/main/docs/versioned_docs/version-stable/browser.md",
   "tags": [],
   "version": "stable",
+  "lastUpdatedBy": "Harry Hopkinson",
+  "lastUpdatedAt": 1651256787,
+  "formattedLastUpdatedAt": "4/29/2022",
   "frontMatter": {
     "id": "browser",
     "title": "Browser",

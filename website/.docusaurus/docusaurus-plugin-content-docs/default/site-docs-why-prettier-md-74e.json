@@ -10,6 +10,9 @@
   "editUrl": "https://github.com/prettier/prettier/edit/main/docs/../docs/why-prettier.md",
   "tags": [],
   "version": "current",
+  "lastUpdatedBy": "Simon Lydell",
+  "lastUpdatedAt": 1593308849,
+  "formattedLastUpdatedAt": "6/28/2020",
   "frontMatter": {
     "id": "why-prettier",
     "title": "Why Prettier?"
