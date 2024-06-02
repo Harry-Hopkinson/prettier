@@ -5676,10 +5676,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"lines-and-columns@npm:2.0.3, lines-and-columns@npm:^2.0.3":
-  version: 2.0.3
-  resolution: "lines-and-columns@npm:2.0.3"
-  checksum: 5955363dfd7d3d7c476d002eb47944dbe0310d57959e2112dce004c0dc76cecfd479cf8c098fd479ff344acdf04ee0e82b455462a26492231ac152f6c48d17a1
+"lines-and-columns@npm:2.0.4, lines-and-columns@npm:^2.0.3":
+  version: 2.0.4
+  resolution: "lines-and-columns@npm:2.0.4"
+  checksum: f5e3e207467d3e722280c962b786dc20ebceb191821dcd771d14ab3146b6744cae28cf305ee4638805bec524ac54800e15698c853fcc53243821f88df37e4975
   languageName: node
   linkType: hard
 
@@ -6896,7 +6896,7 @@ __metadata:
     jest-watch-typeahead: 2.2.2
     json5: 2.2.3
     leven: 4.0.0
-    lines-and-columns: 2.0.3
+    lines-and-columns: 2.0.4
     linguist-languages: 7.21.0
     magic-string: 0.30.0
     mem: 9.0.2
